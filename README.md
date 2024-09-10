@@ -1,4 +1,4 @@
-# Geolocation Utility
+# Jacob's Geolocation Utility Assignment
 
 This utility fetches the latitude, longitude, and place name for given city/state or zip code inputs using the Open Weather Geocoding API. It supports multiple location inputs and returns the first result for each location.
 
